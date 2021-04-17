@@ -1,2 +1,0 @@
-# hexlet-js
-HEEEEEELP
